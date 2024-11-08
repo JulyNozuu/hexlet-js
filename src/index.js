@@ -1,4 +1,2 @@
-const greeting = (string) => {
-    return string;
-  };
-  export default greeting; 
+const greeting = (string) => string;
+export default greeting;
